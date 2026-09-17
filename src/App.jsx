@@ -9,7 +9,7 @@ const projects = [
     name: "KALAM LEDGER",
     hindi: "डिजिटल ट्रांजैक्शन लेजर",
     icon: "📒",
-    url: "https://kalamledger-46zfmw6jf-kalam5.vercel.app",
+    url: "https://kalamledger.vercel.app",
     description: "AEPS, DMT, CARD, UPI और transaction records",
   },
   {
